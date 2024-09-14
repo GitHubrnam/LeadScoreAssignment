@@ -1,0 +1,15 @@
+# Ignore all .log files
+*.log
+
+# Ignore temporary system files
+*.swp
+*.bak
+*.tmp
+*.~*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
